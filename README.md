@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Frank Liu 
+# Frank Liu
 
 **Data-Driven Analytics Professional | Problem Solver | Strategic Thinker**
 
